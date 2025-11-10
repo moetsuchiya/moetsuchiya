@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @moetsuchiya, the student of the KadokawaDowango情報工学院！
-- 🌱 I’ve started learning python, html/css. (Also interested in flutter)
-- 📫 Feel free to DM.
+- 📫 Feel free to DM
 
 
 <!---
