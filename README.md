@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @moetsuchiya, the student of the KadokawaDowango情報工学院！
-- 📫 Feel free to DM
+- 👋 Hi, I’m @moetsuchiya, a student of the KadokawaDowango情報工学院！
 
 
 <!---
