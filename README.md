@@ -1,12 +1,8 @@
 <p align="center">
   <img src="name_rabel.jpeg" alt="Moe Tsuchiya" width="600px">
 </p>
+<h2 align="center">Frontend Developer | React Enthusiast (soon-to-be)</h2>
 
-<p align="center">
-  <strong>Frontend Developer | React Enthusiast</strong>
-</p>
-
----
 
 ### 🎀 Portfolio
 私の制作物やスキルをまとめたポートフォリオサイトです。
