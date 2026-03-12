@@ -9,7 +9,7 @@
 ---
 
 ### 🎀 Portfolio
-私の制作物やスキルをまとめたポートフォリオサイトです。ぜひご覧ください！
+私の制作物やスキルをまとめたポートフォリオサイトです。
 - [View Portfolio Site](https://portfolio-9nf2gpx8t-moe-tsuchiyas-projects.vercel.app/)
 
 ### 🤍 Tech Stack
@@ -20,8 +20,3 @@
 ### 🐾 About Me
 KadokawaDowango情報工学院の生徒です。4月からバックエンド、インフラを学校で学ぶ予定！
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=あなたのGitHubユーザー名&show_icons=true&theme=pastel" alt="GitHub Stats" />
-</p>
